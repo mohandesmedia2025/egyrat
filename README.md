@@ -19,6 +19,3 @@ chmod +x setup_egyrat.sh
 ./setup_egyrat.sh
 ```
 
-## Author
-- **Name**: [Your Name]  
-- **GitHub**: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
